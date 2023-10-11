@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to HackInCloud Github</h1>
 <h3 align="center">besides hacking, we also like open source 🤟💖. Check Our Repo</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackincloud-com&label=Profile%20views&color=0e75b6&style=flat" alt="hackincloud-com" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackincloud-com" alt="hackincloud-com" /></a> </p>
-
-- ⚡ Fun fact **We are the 1st cloud hacking platform in the world wide web**
-
+<br><br>
+<h4 align="left">- ⚡ Fun fact <bold>We are the 1st cloud hacking platform in the world wide web</bold> </h4>
 <h3 align="left">Go Hacking Boyss : https://hackincloud.com</h3>
 <p align="left">
 </p>
